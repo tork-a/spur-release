@@ -1,0 +1,12 @@
+Source: ros-indigo-spur-controller
+Section: misc
+Priority: extra
+Maintainer: TORK <dev@opensource-robotics.tokyo.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/spur_controller
+Standards-Version: 3.9.2
+
+Package: ros-indigo-spur-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-dynamixel-controllers, ros-indigo-joint-state-publisher, ros-indigo-ros-controllers
+Description: The spur_controller package
