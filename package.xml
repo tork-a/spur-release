@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>spur_gazebo</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>The spur_description package</description>
 
   <maintainer email="dev@opensource-robotics.tokyo.jp">TORK</maintainer>
@@ -19,6 +19,8 @@
   <run_depend>gazebo_ros</run_depend>
   <run_depend>gazebo_ros_control</run_depend>
   <run_depend>robot_state_publisher</run_depend>
+  <run_depend>spur_controller</run_depend>
+  <run_depend>spur_description</run_depend>
 
   <export>
   </export>
