@@ -1,0 +1,20 @@
+ros-indigo-spur-description (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Wed, 06 May 2015 15:00:00 -0000
+
+ros-indigo-spur-description (0.1.1-0saucy) saucy; urgency=high
+
+  * Enable Odometry RViz plugin.
+  * Contributors: Isaac IY Saito
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Tue, 28 Apr 2015 15:00:00 -0000
+
+ros-indigo-spur-description (0.1.0-0saucy) saucy; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Sun, 29 Mar 2015 15:00:00 -0000
+
+
