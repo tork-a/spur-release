@@ -1,0 +1,29 @@
+ros-indigo-spur-controller (0.1.3-0trusty) trusty; urgency=high
+
+  * joy launch improvement
+  * Contributors: Isaac IY Saito
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Wed, 06 May 2015 15:00:00 -0000
+
+ros-indigo-spur-controller (0.1.2-0trusty) trusty; urgency=high
+
+  * (Fix) Correct sides of wheels (replacing L and R).
+  * (Feat.) Separate launches to allow dynamixel to start by itself.
+  * Contributors: Isaac IY Saito
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Wed, 06 May 2015 15:00:00 -0000
+
+ros-indigo-spur-controller (0.1.1-0trusty) trusty; urgency=high
+
+  * (Feature) Add a launch for joy, kb teleop
+  * Contributors: Isaac IY Saito
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Tue, 28 Apr 2015 15:00:00 -0000
+
+ros-indigo-spur-controller (0.1.0-0trusty) trusty; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Sun, 29 Mar 2015 15:00:00 -0000
+
+
