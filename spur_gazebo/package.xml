@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>spur_gazebo</name>
+  <version>0.1.2</version>
+  <description>The spur_description package</description>
+
+  <maintainer email="dev@opensource-robotics.tokyo.jp">TORK</maintainer>
+
+  <license>BSD</license>
+
+  <author email="534o@opensource-robotics.tokyo.jp">Tokyo Opensource Robotics Programmer 534o</author>
+
+  <url type="website">http://wiki.ros.org/spur_gazebo</url>
+  <url type="bugtracker">https://github.com/tork-a/spur/issues</url>
+  <url type="repository">https://github.com/tork-a/spur</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>gazebo_ros_control</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>spur_controller</run_depend>
+  <run_depend>spur_description</run_depend>
+
+  <export>
+  </export>
+</package>
