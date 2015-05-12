@@ -2,6 +2,11 @@
 Changelog for package spur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2015-05-13)
+------------------
+* (Fix) Add more dependency
+* Contributors: Isaac IY Saito
+
 0.2.0 (2015-05-09)
 ------------------
 * (Fix) Complete adjusting model to real robot
