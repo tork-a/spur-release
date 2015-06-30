@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>spur_gazebo</name>
-  <version>0.2.1</version>
+  <version>0.2.2</version>
   <description>3D simulation package for SPUR omni-directional mobile manipulator robot made at Tamagawa University.</description>
 
   <maintainer email="okdhryk@gmail.com">Hiroyuki Okada</maintainer>
@@ -22,6 +22,7 @@
   <run_depend>robot_state_publisher</run_depend>
   <run_depend>spur_controller</run_depend>
   <run_depend>spur_description</run_depend>
+  <run_depend>turtlebot_gazebo</run_depend>
 
   <export>
   </export>
