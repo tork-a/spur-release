@@ -2,6 +2,11 @@
 Changelog for package spur_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2015-07-02)
+------------------
+* [sys] add test
+* Contributors: TORK 534o
+
 0.2.2 (2015-06-30)
 ------------------
 * [Feat] Selectable laser visualization via roslaunch argument
