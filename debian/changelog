@@ -1,0 +1,56 @@
+ros-indigo-spur-gazebo (0.2.3-0saucy) saucy; urgency=high
+
+  * [sys] add test
+  * Contributors: TORK 534o
+
+ -- Hiroyuki Okada <okdhryk@gmail.com>  Thu, 02 Jul 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.2.2-0saucy) saucy; urgency=high
+
+  * [Feat] Selectable laser visualization via roslaunch argument
+  * [Sys] Adjust to bringup pkg. Add 2dnav pkg up to gmapping feature
+  * Contributors: Isaac IY Saito
+
+ -- Hiroyuki Okada <okdhryk@gmail.com>  Tue, 30 Jun 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.2.1-0saucy) saucy; urgency=high
+
+  * (Fix) Add more dependency
+  * Contributors: Isaac IY Saito
+
+ -- Hiroyuki Okada <okdhryk@gmail.com>  Wed, 13 May 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.2.0-0saucy) saucy; urgency=high
+
+  * (Feature) Allow configuring idle time for Twist command.
+  * (Doc) Copyright to the project owner. Update package description.
+  * Contributors: Isaac IY Saito
+
+ -- Hiroyuki Okada <okdhryk@gmail.com>  Sat, 09 May 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.1.3-0saucy) saucy; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Thu, 07 May 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.1.2-0saucy) saucy; urgency=high
+
+  * More correct dependency.
+  * Contributors: Isaac IY Saito
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Thu, 07 May 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Wed, 29 Apr 2015 07:00:00 -0000
+
+ros-indigo-spur-gazebo (0.1.0-0saucy) saucy; urgency=high
+
+
+
+ -- TORK <dev@opensource-robotics.tokyo.jp>  Mon, 30 Mar 2015 07:00:00 -0000
+
+
