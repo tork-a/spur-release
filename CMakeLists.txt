@@ -4,9 +4,7 @@ project(spur_bringup)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS
-  urg_node
-)
+find_package(catkin REQUIRED rostest)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -142,7 +140,7 @@ include_directories(
 
 ## Mark other files for installation (e.g. launch and bag files, etc.)
 #install(FILES
-install(DIRECTORY config launch
+install(DIRECTORY launch test
    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
    USE_SOURCE_PERMISSIONS
 )
@@ -159,3 +157,4 @@ install(DIRECTORY config launch
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+add_rostest(test/test-minimal.test)
