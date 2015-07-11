@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>spur_2dnav</name>
-  <version>0.2.3</version>
+  <version>0.2.4</version>
   <description>The spur_2dnav package holds common configuration options for running SPUR in 2D environment.</description>
 
   <maintainer email="okdhryk@gmail.com">Hiroyuki Okada</maintainer>
@@ -14,6 +14,7 @@
   <url type="repository">https://github.com/tork-a/spur</url>
 
   <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rostest</build_depend>
   <run_depend>amcl</run_depend>
   <run_depend>dwa_local_planner</run_depend>
   <run_depend>gmapping</run_depend>
