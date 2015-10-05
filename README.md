@@ -1,3 +1,30 @@
+## spur (indigo) - 0.2.6-0
+
+The packages in the `spur` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo spur` on `Mon, 05 Oct 2015 07:04:17 -0000`
+
+These packages were released:
+- `spur`
+- `spur_2dnav`
+- `spur_bringup`
+- `spur_controller`
+- `spur_description`
+- `spur_gazebo`
+
+Version of package(s) in repository `spur`:
+- upstream repository: https://github.com/tork-a/spur.git
+- release repository: https://github.com/tork-a/spur-release.git
+- rosdistro version: `0.2.4-0`
+- old version: `0.2.4-0`
+- new version: `0.2.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## spur (indigo) - 0.2.4-0
 
 The packages in the `spur` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo spur` on `Sat, 11 Jul 2015 14:59:26 -0000`
