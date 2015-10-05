@@ -2,6 +2,18 @@
 Changelog for package spur_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2015-10-04)
+------------------
+* [fix] parameter tuning for the real robot
+* [fix] Install target
+* Contributors: TORK 534o, Isaac IY Saito
+
+0.2.5 (2015-07-29)
+------------------
+* [feat] add laserfilter.launch
+* [sys] cleanup launc files, sim->use_dummy, spur_world uses miimax.launch
+* Contributors: TORK 534o
+
 0.2.4 (2015-07-11)
 ------------------
 * set use_base_odom to true as default
