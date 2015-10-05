@@ -2,6 +2,18 @@
 Changelog for package spur_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2015-10-04)
+------------------
+
+0.2.5 (2015-07-29)
+------------------
+* [feat] Enabling localization, navigation
+* [feat] Navigation parameters update
+* [feat] Update laser sensor from 04LX specification for simulation. 
+* [feat] Add fake odometory for simulation
+* [sys] Cleanup
+* Contributors: TORK 534o, Isaac IY Saito
+
 0.2.4 (2015-07-11)
 ------------------
 * if you want to put urg upside down, do not change visual, but change origin
