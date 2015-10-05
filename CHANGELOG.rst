@@ -2,6 +2,21 @@
 Changelog for package spur_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2015-10-04)
+------------------
+* [feat] Brush up laser_scan_matcher usage
+* [feat] add calibration
+* [fix] spur_controller/joint_state_publisher.py: fix for real robot, which currently does not have configuration setup for upper body
+* [design] use spur/laser/scan_filtered
+* Contributors: TORK 534o
+
+0.2.5 (2015-07-29)
+------------------
+* [fix] Odometry accuracy
+* [sys] Cleanup
+* [sys] add spur_controller/test/cmd_vel_test.py
+* Contributors: TORK 534o, Isaac IY Saito
+
 0.2.4 (2015-07-11)
 ------------------
 * set use_base_odom to true as default
